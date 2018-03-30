@@ -1,3 +1,7 @@
+
+# PyCharm project directories and non-source files
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
